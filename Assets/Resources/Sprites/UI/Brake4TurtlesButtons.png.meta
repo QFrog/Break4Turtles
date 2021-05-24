@@ -1,0 +1,742 @@
+fileFormatVersion: 2
+guid: 119d2d194c19a8f4180f22711225a5ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Brake4TurtlesButtons_0
+  - first:
+      213: 21300002
+    second: Brake4TurtlesButtons_1
+  - first:
+      213: 21300004
+    second: Brake4TurtlesButtons_2
+  - first:
+      213: 21300006
+    second: Brake4TurtlesButtons_3
+  - first:
+      213: 21300008
+    second: Brake4TurtlesButtons_4
+  - first:
+      213: 21300010
+    second: Brake4TurtlesButtons_5
+  - first:
+      213: 21300012
+    second: Brake4TurtlesButtons_6
+  - first:
+      213: 21300014
+    second: Brake4TurtlesButtons_7
+  - first:
+      213: 21300016
+    second: Brake4TurtlesButtons_8
+  - first:
+      213: 21300018
+    second: Brake4TurtlesButtons_9
+  - first:
+      213: 21300020
+    second: Brake4TurtlesButtons_10
+  - first:
+      213: 21300022
+    second: Brake4TurtlesButtons_11
+  - first:
+      213: 21300024
+    second: Brake4TurtlesButtons_12
+  - first:
+      213: 21300026
+    second: Brake4TurtlesButtons_13
+  - first:
+      213: 21300028
+    second: Brake4TurtlesButtons_14
+  - first:
+      213: 21300030
+    second: Brake4TurtlesButtons_15
+  - first:
+      213: 21300032
+    second: Brake4TurtlesButtons_16
+  - first:
+      213: 21300034
+    second: Brake4TurtlesButtons_17
+  - first:
+      213: 21300036
+    second: Brake4TurtlesButtons_18
+  - first:
+      213: 21300038
+    second: Brake4TurtlesButtons_19
+  - first:
+      213: 21300040
+    second: Brake4TurtlesButtons_20
+  - first:
+      213: 21300042
+    second: Brake4TurtlesButtons_21
+  - first:
+      213: 21300044
+    second: Brake4TurtlesButtons_22
+  - first:
+      213: 21300046
+    second: Brake4TurtlesButtons_23
+  - first:
+      213: 21300048
+    second: Brake4TurtlesButtons_24
+  - first:
+      213: 21300050
+    second: Brake4TurtlesButtons_25
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Brake4TurtlesButtons_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 999
+        width: 257
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07da52d8a7b0e3c47a2e4eba16ed8da5
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brake4TurtlesButtons_1
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 998
+        width: 244
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfb5eecbcf8c1343aaddcf737f80db4
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brake4TurtlesButtons_2
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 998
+        width: 259
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fd0b7aaaa4e824ca42cb75a2fb6276
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brake4TurtlesButtons_3
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1008
+        width: 235
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6845067b7a2a044bfca74d1acd478b
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brake4TurtlesButtons_4
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 997
+        width: 259
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0337b63ac89cc384cb994bd4fb742897
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brake4TurtlesButtons_5
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 1000
+        width: 242
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac06e800b37f5540b1f5676f708fe39
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brake4TurtlesButtons_6
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 733
+        width: 792
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bea98f9f5ea56d47a605bc8c28d9a54
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brake4TurtlesButtons_7
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 739
+        width: 444
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73b0223250aca74d82bc6a6bda25123
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brake4TurtlesButtons_8
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 739
+        width: 446
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123e4147bf4b95743844cde16e0ff25b
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brake4TurtlesButtons_9
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 737
+        width: 445
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247ca7dbe3154944da8e4d833a11fbb6
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brake4TurtlesButtons_10
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 737
+        width: 444
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5a4c0b4ece0fb42962fb5ea3c027ee
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brake4TurtlesButtons_11
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 733
+        width: 445
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e7944e3997fdc46957ce4c2d93614e
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brake4TurtlesButtons_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 522
+        width: 558
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5b8ea8ea4ed68439b5f7915bcc5da1
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brake4TurtlesButtons_13
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 522
+        width: 558
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9ce0f9ed547c7488f2e6378802b790
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brake4TurtlesButtons_14
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 513
+        width: 445
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d77ccd08e9b7b348b454ca4b249914e
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brake4TurtlesButtons_15
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 513
+        width: 445
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d35cd79a8170a4aab4638f71650284
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brake4TurtlesButtons_16
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 511
+        width: 445
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b36645e65f225d4e82833aec44ba00b
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brake4TurtlesButtons_17
+      rect:
+        serializedVersion: 2
+        x: 2780
+        y: 511
+        width: 444
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b224d67987ede47a6110fe1d498dd8
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brake4TurtlesButtons_18
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 151
+        width: 208
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa582500f9f951741b793f64c7773671
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brake4TurtlesButtons_19
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 143
+        width: 210
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05796892724ef014f82ae06a84babaab
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brake4TurtlesButtons_20
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 188
+        width: 173
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169aefd4093e09343accbe1de97f8705
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brake4TurtlesButtons_21
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 135
+        width: 300
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e787cb64adf0f0f49934006700518506
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brake4TurtlesButtons_22
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 108
+        width: 185
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131a05a1ce39df54999c7e0d254c7e93
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brake4TurtlesButtons_23
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 139
+        width: 155
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec208c14f703b44aae2e5b2d9839b5f
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brake4TurtlesButtons_24
+      rect:
+        serializedVersion: 2
+        x: 2254
+        y: 134
+        width: 145
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f83ac3127153b459d51599a7b443ed
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brake4TurtlesButtons_25
+      rect:
+        serializedVersion: 2
+        x: 2522
+        y: 143
+        width: 145
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0047654f9a0e1428bf451f4ca6d120
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2685b70b74329c74d9668f2ff07a3fe3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

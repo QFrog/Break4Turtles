@@ -1,0 +1,181 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1846400036518372}
+  m_IsPrefabAsset: 1
+--- !u!1 &1846400036518372
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4513745914670630}
+  - component: {fileID: 114341837748806866}
+  - component: {fileID: 212802920564435066}
+  m_Layer: 0
+  m_Name: Bushes
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4513745914670630
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1846400036518372}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114341837748806866
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1846400036518372}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 056169d9c6002004f96acbf936b0e723, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AreaPalettes:
+  - CrossingSprite: {fileID: 21300000, guid: 1fe5fb76051329d4d816c8662c64fe57, type: 3}
+    SideSprite: {fileID: 21300000, guid: 1fe5fb76051329d4d816c8662c64fe57, type: 3}
+    ClutterSprites:
+    - {fileID: 21300000, guid: de04508a3ba628e41939ec442003269c, type: 3}
+    - {fileID: 21300002, guid: de04508a3ba628e41939ec442003269c, type: 3}
+    - {fileID: 21300004, guid: de04508a3ba628e41939ec442003269c, type: 3}
+    - {fileID: 21300006, guid: de04508a3ba628e41939ec442003269c, type: 3}
+    - {fileID: 21300008, guid: de04508a3ba628e41939ec442003269c, type: 3}
+    - {fileID: 21300010, guid: de04508a3ba628e41939ec442003269c, type: 3}
+    - {fileID: 21300012, guid: de04508a3ba628e41939ec442003269c, type: 3}
+    - {fileID: 21300014, guid: de04508a3ba628e41939ec442003269c, type: 3}
+    - {fileID: 21300016, guid: de04508a3ba628e41939ec442003269c, type: 3}
+    Animals:
+    - {fileID: 1539290831258082, guid: ef87cb1d198700540b0a7c2fcb0a7b44, type: 2}
+    - {fileID: 1539290831258082, guid: 24673aec9618bab44934437d1c1d27e5, type: 2}
+    - {fileID: 1539290831258082, guid: b3c1cadd73318f54ab24229c70f6248e, type: 2}
+    - {fileID: 1539290831258082, guid: 8b23ae80a59b9264f8d734baea231628, type: 2}
+    - {fileID: 1539290831258082, guid: 455188feb970d4c4599d878ddf35b363, type: 2}
+    - {fileID: 1539290831258082, guid: 27e336e037402d24ead7033926914540, type: 2}
+  - CrossingSprite: {fileID: 21300000, guid: 7c2ca6dc276203b42853ed72d959b09f, type: 3}
+    SideSprite: {fileID: 21300000, guid: 7c2ca6dc276203b42853ed72d959b09f, type: 3}
+    ClutterSprites:
+    - {fileID: 21300000, guid: 90b9f4b0824161841880d398e6221fc0, type: 3}
+    - {fileID: 21300002, guid: 90b9f4b0824161841880d398e6221fc0, type: 3}
+    - {fileID: 21300004, guid: 90b9f4b0824161841880d398e6221fc0, type: 3}
+    - {fileID: 21300006, guid: 90b9f4b0824161841880d398e6221fc0, type: 3}
+    - {fileID: 21300008, guid: 90b9f4b0824161841880d398e6221fc0, type: 3}
+    - {fileID: 21300010, guid: 90b9f4b0824161841880d398e6221fc0, type: 3}
+    - {fileID: 21300012, guid: 90b9f4b0824161841880d398e6221fc0, type: 3}
+    - {fileID: 21300014, guid: 90b9f4b0824161841880d398e6221fc0, type: 3}
+    - {fileID: 21300016, guid: 90b9f4b0824161841880d398e6221fc0, type: 3}
+    - {fileID: 21300018, guid: 90b9f4b0824161841880d398e6221fc0, type: 3}
+    - {fileID: 21300020, guid: 90b9f4b0824161841880d398e6221fc0, type: 3}
+    - {fileID: 21300022, guid: 90b9f4b0824161841880d398e6221fc0, type: 3}
+    Animals:
+    - {fileID: 1539290831258082, guid: ef87cb1d198700540b0a7c2fcb0a7b44, type: 2}
+    - {fileID: 1539290831258082, guid: 24673aec9618bab44934437d1c1d27e5, type: 2}
+    - {fileID: 1539290831258082, guid: b3c1cadd73318f54ab24229c70f6248e, type: 2}
+    - {fileID: 1539290831258082, guid: 8b23ae80a59b9264f8d734baea231628, type: 2}
+    - {fileID: 1539290831258082, guid: 455188feb970d4c4599d878ddf35b363, type: 2}
+    - {fileID: 1539290831258082, guid: 27e336e037402d24ead7033926914540, type: 2}
+  - CrossingSprite: {fileID: 21300000, guid: 99ffd70a33a50f144ad56ba45f36b719, type: 3}
+    SideSprite: {fileID: 21300000, guid: 99ffd70a33a50f144ad56ba45f36b719, type: 3}
+    ClutterSprites:
+    - {fileID: 21300000, guid: 6fa5647075b56044599155d1b6abfa60, type: 3}
+    - {fileID: 21300002, guid: 6fa5647075b56044599155d1b6abfa60, type: 3}
+    - {fileID: 21300006, guid: 6fa5647075b56044599155d1b6abfa60, type: 3}
+    - {fileID: 21300008, guid: 6fa5647075b56044599155d1b6abfa60, type: 3}
+    - {fileID: 21300010, guid: 6fa5647075b56044599155d1b6abfa60, type: 3}
+    - {fileID: 21300012, guid: 6fa5647075b56044599155d1b6abfa60, type: 3}
+    - {fileID: 21300004, guid: 6fa5647075b56044599155d1b6abfa60, type: 3}
+    - {fileID: 21300014, guid: 6fa5647075b56044599155d1b6abfa60, type: 3}
+    - {fileID: 21300016, guid: 6fa5647075b56044599155d1b6abfa60, type: 3}
+    Animals:
+    - {fileID: 1539290831258082, guid: ef87cb1d198700540b0a7c2fcb0a7b44, type: 2}
+    - {fileID: 1539290831258082, guid: 24673aec9618bab44934437d1c1d27e5, type: 2}
+    - {fileID: 1539290831258082, guid: b3c1cadd73318f54ab24229c70f6248e, type: 2}
+    - {fileID: 1539290831258082, guid: 8b23ae80a59b9264f8d734baea231628, type: 2}
+    - {fileID: 1539290831258082, guid: 455188feb970d4c4599d878ddf35b363, type: 2}
+    - {fileID: 1539290831258082, guid: 27e336e037402d24ead7033926914540, type: 2}
+  - CrossingSprite: {fileID: 21300000, guid: 9620a8456970822498a8c74cf86f1cdd, type: 3}
+    SideSprite: {fileID: 21300000, guid: 7c2ca6dc276203b42853ed72d959b09f, type: 3}
+    ClutterSprites:
+    - {fileID: 21300000, guid: 01e2054448127814aa4efeeafd778ac3, type: 3}
+    - {fileID: 21300002, guid: 01e2054448127814aa4efeeafd778ac3, type: 3}
+    - {fileID: 21300004, guid: 01e2054448127814aa4efeeafd778ac3, type: 3}
+    - {fileID: 21300006, guid: 01e2054448127814aa4efeeafd778ac3, type: 3}
+    - {fileID: 21300008, guid: 01e2054448127814aa4efeeafd778ac3, type: 3}
+    Animals:
+    - {fileID: 1539290831258082, guid: ef87cb1d198700540b0a7c2fcb0a7b44, type: 2}
+    - {fileID: 1539290831258082, guid: 24673aec9618bab44934437d1c1d27e5, type: 2}
+    - {fileID: 1539290831258082, guid: b3c1cadd73318f54ab24229c70f6248e, type: 2}
+    - {fileID: 1539290831258082, guid: 8b23ae80a59b9264f8d734baea231628, type: 2}
+    - {fileID: 1539290831258082, guid: 455188feb970d4c4599d878ddf35b363, type: 2}
+    - {fileID: 1539290831258082, guid: 27e336e037402d24ead7033926914540, type: 2}
+  CurrentArea: 0
+  ZoneWidth: 4
+  SpawnedAnimals: []
+  SpawnLocations: []
+  MyPos: 0
+--- !u!212 &212802920564435066
+SpriteRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1846400036518372}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 4294967295
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: -10
+  m_Sprite: {fileID: 21300000, guid: 1fe5fb76051329d4d816c8662c64fe57, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 2, y: 2}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0

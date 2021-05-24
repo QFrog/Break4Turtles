@@ -1,0 +1,430 @@
+fileFormatVersion: 2
+guid: 90b9f4b0824161841880d398e6221fc0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: GrassAssets%404x_0
+  - first:
+      213: 21300002
+    second: GrassAssets%404x_1
+  - first:
+      213: 21300004
+    second: GrassAssets%404x_2
+  - first:
+      213: 21300006
+    second: GrassAssets%404x_3
+  - first:
+      213: 21300008
+    second: GrassAssets%404x_4
+  - first:
+      213: 21300010
+    second: GrassAssets%404x_5
+  - first:
+      213: 21300012
+    second: GrassAssets%404x_6
+  - first:
+      213: 21300014
+    second: GrassAssets%404x_7
+  - first:
+      213: 21300016
+    second: GrassAssets%404x_8
+  - first:
+      213: 21300018
+    second: GrassAssets%404x_9
+  - first:
+      213: 21300020
+    second: GrassAssets%404x_10
+  - first:
+      213: 21300022
+    second: GrassAssets%404x_11
+  - first:
+      213: 21300024
+    second: GrassAssets%404x_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GrassAssets%404x_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1135
+        width: 574
+        height: 439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded5d4dc2a2c36d439ea2513879fc749
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassAssets%404x_1
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1216
+        width: 621
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a82eb23d5ee234194fb450060a36f0
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassAssets%404x_2
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 624
+        width: 214
+        height: 295
+      alignment: 9
+      pivot: {x: 0.5104363, y: 0.24259406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e832989b925ca6b4489537dc6fc0727c
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassAssets%404x_3
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 633
+        width: 128
+        height: 183
+      alignment: 9
+      pivot: {x: 0.5174489, y: 0.2559154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd490ee8dc7b3e44592942c194fe1008
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassAssets%404x_4
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 647
+        width: 117
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900ceecde6441ae488bba7e32469e0a5
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassAssets%404x_5
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 651
+        width: 186
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc326e4eb0f15f4688428f969cd5a4f
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassAssets%404x_6
+      rect:
+        serializedVersion: 2
+        x: 2372
+        y: 656
+        width: 234
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b85519b5212c942b8118ae628f0c4d
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassAssets%404x_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 39
+        width: 180
+        height: 212
+      alignment: 9
+      pivot: {x: 0.4751847, y: 0.29983854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f792c3cce66d34b479f7a140a6a8872b
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassAssets%404x_8
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 33
+        width: 216
+        height: 234
+      alignment: 9
+      pivot: {x: 0.5000003, y: 0.31865722}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824744b4c1a33fa4b808bd1468da5fdf
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassAssets%404x_9
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 84
+        width: 110
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7447f56cdca4b2040a0807dfd7fd2340
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassAssets%404x_10
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 57
+        width: 165
+        height: 230
+      alignment: 9
+      pivot: {x: 0.5000007, y: 0.31550366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7836a31d334f74aaec3728648eaf41
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassAssets%404x_11
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 0
+        width: 336
+        height: 314
+      alignment: 9
+      pivot: {x: 0.5265881, y: 0.40753523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e6742b1abec194ea0cf19ac5b0c81e
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassAssets%404x_12
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 1230
+        width: 1188
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44283ad843a7e9e4999b94deee8763fa
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 96c4f455cc9c76d449f9d133c0fbcdbf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
